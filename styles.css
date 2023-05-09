@@ -1,0 +1,26 @@
+body{
+  margin-left: 50px;
+  margin-top: 50px;
+  font-family: 'Roboto', sans-serif;
+}
+.image{
+  border-radius: 50px;
+}
+.name{
+  font-size: 30px;
+}
+p{
+  font-size: 20px;
+  color: #808080;
+  font-weight: bold;
+
+}
+.btn{
+  height: 30px;
+  width: auto;
+  color: #ACB1D6;
+}
+a{
+  text-decoration: none;
+  color: red;
+}
